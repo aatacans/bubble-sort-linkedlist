@@ -20,7 +20,7 @@ Bubble Sort, karşılaştırmalı bir sıralama algoritmasıdır. Her bir öğe,
 
 ### Örnek Görsel:
 
-![Bubble Sort Adımları](images/bubble_sort.gif)
+![Bubble Sort Adımları](images/bubble_sort.jpeg)
 
 > `images/` klasörü altına `.gif` uzantılı sıralama adımlarını gösteren bir animasyon yerleştirebilirsiniz.
 
